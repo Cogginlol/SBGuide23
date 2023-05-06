@@ -86,7 +86,7 @@ Swagbucks has slowly started to add daily activities to their daily discover. Th
 
 One key thing to mention is that Swagbucks has recently released a TikTok clone called Swagit. This application is designed to allow users to upload content and earn SB from other users. The best thing is, you can donate SB to 5 users, and gain 10 bonuses back (so 2SB for every 1SB donated). I actually upload content under the name “CogginLOL” and if you’d like, you could donate 5SB to me, and you will support my blog and YouTube and get 10SB in return. Finally. At this current time, Swagit is only available in the US, but a fellow creator, known as LazyMoneyUK has found a way around this.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MC7jpU0qax8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/MC7jpU0qax8
 
 Download Swagit! here: Google Play Store / Apple App Store
 
